@@ -1,0 +1,10 @@
+Package: com.devsignerz.tweetdeck
+Name: TweetDeck
+Version: 1.0
+Architecture: iphoneos-arm
+Description: the original tweetdeck app i made for a team
+Homepage: http://devsignerz.com
+Maintainer: Devsignerz <saeed@devsignerz.com>
+Author: Devsignerz <saeed@devsignerz.com>
+Section: Apps
+Location: tweetdeck.tar.gz

@@ -1,0 +1,58 @@
+Package: com.devsignerz.ios10lbi
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Depends: mobilesubstrate
+Filename: ./debs/iOS10LBI.deb
+Size: 531496
+MD5sum: 31866efd0472de3997c13ac306274af2
+SHA1: 4f28f5308a1a5fa5f70fe07e7a135dad72fc0229
+SHA256: b509d05b3b7d1ddb6cf576bb6cacbdc381df39cf631b1084e01193db5d16d8b0
+Section: add-on
+Author: Devsignerz
+Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.ios10lbi/
+Name: iOS 10 LBI Theme
+
+Package: com.devsignerz.ios11theme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Filename: ./debs/iOS11Theme.deb
+Size: 80982
+MD5sum: ec172d9e847027039e9bdb4aac1ede60
+SHA1: 08113853ee59e85fafbf8848bcf76a8f1f0ef6f7
+SHA256: ddefdbb0322caee3d9e48df89bd1d2e22c12fbe7abab7a78af7b0e84361319a2
+Section: Themes
+Author: Devsignerz
+Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.ios11theme/
+Name: iOS 11 Theme
+
+Package: com.devsignerz.ios9theme
+Version: 9.3
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Depends: mobilesubstrate
+Filename: ./debs/iOS9Theme.deb
+Size: 10824336
+MD5sum: 4ae3186cbdb813ccda1c91c22a67537a
+SHA1: 22271c9f0bc41a08f9bf07cf7d183aca4df42209
+SHA256: dc32d08698786d3fae4ae80a3f19dafff0b2030baae7be30d37cb2bc04e69065
+Section: Themes
+Author: Devsignerz
+Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.ios9theme/
+Name: iOS 9 Theme
+
+Package: com.devsignerz.serendipity
+Version: 1.0beta1
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Filename: ./debs/Serendipity.deb
+Size: 658636
+MD5sum: 417ecd6945083dfc0e0c5ec0e8a64f58
+SHA1: a1f605530d763ce9562f93bf04b0afb90687894b
+SHA256: 68c84a9b73759597f067708e7723107eea857680585afa781afd42480c4abee8
+Section: Themes
+Author: Devsignerz
+Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.serendipity/
+Name: Serendipity
+
