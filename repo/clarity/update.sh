@@ -1,2 +1,0 @@
-./remove.sh
-./packages.sh
