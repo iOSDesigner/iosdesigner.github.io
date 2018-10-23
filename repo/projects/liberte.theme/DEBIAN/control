@@ -1,9 +1,0 @@
-Package: com.iOSDesigner.Liberte
-Name: Liberte
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Maintainer: iOSDesigner
-Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.ios9theme/
-Author: iOSDesigner
-Section: Themes
-Version: 1.0
