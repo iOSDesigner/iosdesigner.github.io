@@ -2,13 +2,12 @@ Package: com.iOSDesigner.Liberte
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
-Filename: ./debs/liberte 23.54.47.deb
-Size: 6305780
-MD5sum: 77affcf8c259fb0b5abdcdd399960511
-SHA1: 94666633e177f85694d5df810181faa6bacc4ae0
-SHA256: b1c014b8c609fdf6be0bfd4ff49348b537e7cab9887f943ac264562046268a7a
+Filename: ./debs/liberte 12.30.06.deb
+Size: 6795606
+MD5sum: 96e5fc871f44dbad4ee8488d05cb4137
+SHA1: e993fde0f666056b4c92cb2ee5201aaacc94ba71
+SHA256: d3c29941828d9ffa105e239880b4b0e70473766197cecd0a6b30039981be48e0
 Section: Themes
 Author: iOSDesigner
-Depiction: https://applemarceltech.wixsite.com/website
 Name: Liberte
 
