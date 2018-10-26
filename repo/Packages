@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/liberte.deb
 Size: 6795606
-MD5sum: 60da829f384dd96b12e6872688b2464a
-SHA1: 74df7331911307c3438c51a86a6606ff175af8fe
-SHA256: ed70994fdeeae4a1a219a527892007c2262dc62424f349b9e1e03e49b3f5aec3
+MD5sum: 8013a79cdf2c646f33ee37b2ec172789
+SHA1: 8b4fee5277d5675e85432726c8d22ddd42606b82
+SHA256: 150922124ab89e864e397b6063a1bf5c666efde4c99cc39992ecb136a50de7ce
 Section: Themes
 Author: iOSDesigner
 Name: Liberte
