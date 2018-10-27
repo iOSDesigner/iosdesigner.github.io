@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/liberte.deb
 Size: 6789154
-MD5sum: ee494b16e0926b1a5c386adbe6c350a0
-SHA1: 3680d6598119e3bdee19c9093e89379334715214
-SHA256: 1ec2f9572ca950c40abb281f8df78f2020b502034e020dcf002c513a601b881d
+MD5sum: 12ae33b012c4388b0f0127c2ec994d03
+SHA1: 75098782ff4c2958c5d66a581852a7eb8e98367f
+SHA256: 4190a2174e0da76d8f802636148a79902c0777f2a7f46d793d2c0b66f7cdac3e
 Section: Themes
 Author: iOSDesigner
 Name: Liberte
@@ -18,9 +18,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
 Size: 12796968
-MD5sum: 3fad4ea046b50f2c9ccec54b4d4ace4a
-SHA1: 8b5f74056c9af1dd7b98c367b6415cc1cf3635b5
-SHA256: 5150efd9917afc4d50ef6a0b943763ef161801b282448c492e496367a1278525
+MD5sum: 311ef108ab65c9dd5466589766c10233
+SHA1: d0f5e51a4cdba97fec4afb2937562d5d1b264e76
+SHA256: 3bc34d7c61131a65088a04d5e0bc1d214e0c279f92403e038b69136704295253
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -32,9 +32,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/iosmojave.deb
 Size: 13772400
-MD5sum: a9c329641aa4479fd011d7dd9f19df38
-SHA1: d4264ba1beda6b703ebdaf3f434fe92b9fb548ee
-SHA256: bedfe8cbe18ed606593e008a0a1134ce634ac722c16e655cd782bbf759ef5530
+MD5sum: cd9cd7012a2da07f6d0573f4d3dd0536
+SHA1: 2365b8217a008a5d8fd98d2a430e705e2eb0ac0c
+SHA256: b719b9111cb6e4c81564a6e2da1b95019b85bd416f97c1949ebfadf2c728cee0
 Section: Themes
 Description: iOS Mojave is a theme with gradients, and over 300 edited icons. iOS Mojave supports iPhone 5 and higher and iPad3 and higher. iOS 8 - iOS 11.4.beta3. I've been working on iOS Mojave for over 3 weeks. I wanted it to be easy for the user to recognize the icons, and I think I did well.
 Author: iOSDesigner <andereder@yahoo.de>
