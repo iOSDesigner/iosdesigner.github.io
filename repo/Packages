@@ -4,10 +4,25 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/liberte.deb
 Size: 6795606
-MD5sum: 8013a79cdf2c646f33ee37b2ec172789
-SHA1: 8b4fee5277d5675e85432726c8d22ddd42606b82
-SHA256: 150922124ab89e864e397b6063a1bf5c666efde4c99cc39992ecb136a50de7ce
+MD5sum: 3ec23aa5df1b771e645803b99fc2107e
+SHA1: 1a85cd03db607a04572ab0ea34acb2e4943884fb
+SHA256: 1443879a6ef765212ba994c2ac32be1d7c9947d22730435866c04153c943b3db
 Section: Themes
 Author: iOSDesigner
 Name: Liberte
+
+Package: com.iOSDesigner.iosmojave
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner <andereder@yahoo.de>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/iosmojave.deb
+Size: 13773322
+MD5sum: 2637756c950e03bdf712740aefcfb057
+SHA1: 14ed5cf12b10e399f1ebf89dd66a4f00e7e43426
+SHA256: 8c7d9ed981e4b16a956a94395b4d5848319e9c1ee12d223c27d220bdccb9e158
+Section: Themes
+Description: iOS Mojave is a theme with gradients, and over 300 edited icons. iOS Mojave supports iPhone 5 and higher and iPad3 and higher. iOS 8 - iOS 11.4.beta3. I've been working on iOS Mojave for over 3 weeks. I wanted it to be easy for the user to recognize the icons, and I think I did well.
+Author: iOSDesigner <andereder@yahoo.de>
+Name: iOS Mojave
 
