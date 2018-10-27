@@ -1,0 +1,7 @@
+Package: com.iOSDesigner.minimalios11
+Name: Minimal iOS11
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Author: iOSDesigner
+Section: Themes
+Version: 1.0
