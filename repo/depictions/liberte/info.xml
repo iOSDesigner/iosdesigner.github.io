@@ -1,0 +1,23 @@
+<package>
+	<id>com.iOSDesigner.Liberte</id>
+	<name>Liberte</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.3.x</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Liberte is a Flat Theme about 250 Icons. It looks beatiful. In the future it will comes with new updates for more icons. Requires iOS 11..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
