@@ -1,23 +1,28 @@
 <package>
 	<id>com.iOSDesigner.Liberte</id>
 	<name>Liberte</name>
-	<version>1.0.0</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>11.3.x</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>Anemone</package>
+	</dependencies>
 	<descriptionlist>
-		<description>Liberte is a Flat Theme about 250 Icons. It looks beatiful. In the future it will comes with new updates for more icons. Requires iOS 11..</description>
+		<description><![CDATA[<b>Liberte is a Flat Theme about 250 Icons. It looks beatiful. In the future it will comes with new updates for more icons. <br /> <br />
+                          <b>Apply with Anemone</b>]]></description>
+		<description>
+</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<image>lib1.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
-	<links></links>
 </package>
