@@ -1,41 +1,66 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en" >
+
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title>Repo</title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1671">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p2 {margin: 0.0px 0.0px 16.6px 0.0px; line-height: 13.0px; font: 10.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 12.0px}
-    span.s1 {font-kerning: none}
-    ul.ul1 {list-style-type: disc}
-  </style>
+  <meta charset="UTF-8">
+  <title>Cydia Package Depiction</title>
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
 </head>
+
 <body>
-<p class="p1"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"><b>DESCRIPTION</b></span></p>
-<ul class="ul1">
-  <li class="li3"></li>
-</ul>
-<p class="p2"><span class="s1"><b>CURRENT VERSION<span class="Apple-converted-space"> </span></b></span></p>
-<ul class="ul1">
-  <li class="li3"></li>
-</ul>
-<p class="p2"><span class="s1"><b>DEPENDENCIES</b></span></p>
-<ul class="ul1">
-  <li class="li3"></li>
-</ul>
-<p class="p2"><span class="s1"><b>CONTACT</b></span></p>
-<ul class="ul1">
-  <li class="li3"></li>
-</ul>
-<ul class="ul1">
-  <li class="li4"><span class="s1"></span><br></li>
-</ul>
+
+  <body class="depiction">
+  <header>
+    <h1>Cydia Package</h1>
+  </header>
+  <main id="content" role="main">
+    <ul>
+      <li>
+        This is a depiction of a cydia package. The URL of this page should be set as the "Depiction" element of the <code>DEBIAN/control</code> file, and it contains more information than the regular "Description" entry. There's info on package maintainence, settings, &amp;c.
+      </li>
+      <li>
+        This is another bit of information, split by the line above. This may be trivial information or integral to the package's instructions.
+      </li>
+    </ul>
+    <ul id="cydia-open">
+      <li>
+        <a href="cydia://package/XXX" class="button">View in Cydia</a>
+      </li>
+    </ul>
+    <h2 id="in-this-version">In this version</h2>
+    <ul>
+      <li>
+        First release!
+      </li>
+      <li>
+        More changes!
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <a href="" role="button">Changelog</a>
+      </li>
+    </ul>
+    <h2 id="known-issues">Known&nbsp;Issues</h2>
+    <ul>
+      <li>No current issues.</li>
+    </ul>
+    <p class="footer">Report issues to /u/Travis-g</p>
+  </main>
 </body>
+  
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
 </html>
