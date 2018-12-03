@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/liberte.deb
-Size: 12297746
-MD5sum: 6be6b9c81a982d032ed5764f22913e91
-SHA1: fdb162f5af140d8501ba335a0894c67ceaa9aa5d
-SHA256: ab704f9473bf8f27853456a49cba9727d69fd35865ca00f01c404848ed8275e8
+Size: 12297952
+MD5sum: cc1be5dad52402460ee822cc3e887c37
+SHA1: cbabd2f1ef68793e46b9f167007f8de53ae6930a
+SHA256: 845e9c39cf001bce83451d65fe015c1ecc8af81a00878a14850acb46cb863aad
 Section: Themes
 Author: iOSDesigner
 Depiction: https://iosdesigner.github.io/repo/depictions/com.iOSDesigner.Liberte
@@ -19,9 +19,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
 Size: 12760576
-MD5sum: bd705c93b3d257d0f409e21d70722860
-SHA1: a0c8f21f3a1d5b2dfe8449a74d3ab8efec1959e1
-SHA256: fda67a74f719c28f8847961a2d72406f8f44c779b24df809d4a285eaa27d3e81
+MD5sum: 2c11dcce8a56877e0c82f957c1395a13
+SHA1: 916d6b2e8ac644b835a2a64d380ac6b566ce0260
+SHA256: 67b76cc38eeb3e67bb76b061454ee8aa20e2a6edb591e530734ee1d014675c32
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -33,9 +33,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/iosmojave.deb
 Size: 13772400
-MD5sum: 86e9477294a8217b3291eae484930229
-SHA1: c37d7c9db6a3d49ea949b8273e8bcb80ec20f168
-SHA256: 649cb9e9f2c860e1767af55145fdbdd8cbd2e785e28527e8e48a2f3a4aac5aae
+MD5sum: 56bd834577e7b85fc9e31adceace9d7a
+SHA1: a2f311dc727b8205c5b7c0ed85d0fd59313bf7c5
+SHA256: 88d928d7eb2fcc9b22f5e68c65f1deee33deccf2c7e63811f11d7f335acec712
 Section: Themes
 Description: iOS Mojave is a theme with gradients, and over 300 edited icons. iOS Mojave supports iPhone 5 and higher and iPad3 and higher. iOS 8 - iOS 11.4.beta3. I've been working on iOS Mojave for over 3 weeks. I wanted it to be easy for the user to recognize the icons, and I think I did well.
 Author: iOSDesigner <andereder@yahoo.de>
@@ -47,9 +47,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/minimalios11.deb
 Size: 5429092
-MD5sum: 18d42ca56bc2b86cfdb6ff4fc8131e53
-SHA1: fdfc74676e4e401a96b01d40ae5d3cf00d060137
-SHA256: 47b9629b37d8efe0e2cb5eadd916c4384213da86fa9076d7b3d44d87430e2ced
+MD5sum: ab4449801d445726130112b5246f011e
+SHA1: dc3edaa61b13dabc16cf64355f1b660f8ba6e7f6
+SHA256: cf8e27399683463d51d1526e230e615c3b3a0851d1860ca8b7270ba52a3f31e9
 Section: Themes
 Author: iOSDesigner
 Name: Minimal iOS11
