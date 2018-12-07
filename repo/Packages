@@ -3,43 +3,14 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/liberte.deb
-Size: 12297952
-MD5sum: e1b0deff02df236c3a42fcf728a90e29
-SHA1: 9a504275ba159873c5d4318f156ba8bfb8934095
-SHA256: 1fa2cb85e60711056c92a474d65099b4812951c32916a1909657ec6f916eb8e3
+Size: 12674766
+MD5sum: c441542e33c8932a81c50cd1c1f61267
+SHA1: ff6b7c42284084d1276dc3feed610e9856e824cc
+SHA256: 6636c4257d5987271231fa98488a422a26cab0a751d70c605e0555d86c3ad9ba
 Section: Themes
 Author: iOSDesigner
 Depiction: https://iosdesigner.github.io/repo/depictions/com.iOSDesigner.Liberte
 Name: Liberte
-
-Package: com.iOSDesigner.biscuitios11
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iOSDesigner <andereder@yahoo.de>
-Depends: com.anemonetheming.anemone
-Filename: ./debs/biscuitios11.deb
-Size: 12760576
-MD5sum: b3d230b30ae9253fe0c2542d96bb73d1
-SHA1: a7401a190e26564ef706261aae7e789a90e8221b
-SHA256: b14ce8a7fe14d64c62081f9fc5d0c24130d1f26f92ac2acc4d1061674230a7b6
-Section: Themes
-Author: iOSDesigner <andereder@yahoo.de>
-Name: Biscuit iOS11
-
-Package: com.iOSDesigner.iosmojave
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iOSDesigner <andereder@yahoo.de>
-Depends: com.anemonetheming.anemone
-Filename: ./debs/iosmojave.deb
-Size: 13772400
-MD5sum: 0fe9ec7de282bdbae21defca12ea839c
-SHA1: e00cabcb90ffbf5d52ce16bd0d18df8fe32cd276
-SHA256: 31061ec8257f180c747ee68e9ab6fb27ea064c4340d05e84de97aa2c28061445
-Section: Themes
-Description: iOS Mojave is a theme with gradients, and over 300 edited icons. iOS Mojave supports iPhone 5 and higher and iPad3 and higher. iOS 8 - iOS 11.4.beta3. I've been working on iOS Mojave for over 3 weeks. I wanted it to be easy for the user to recognize the icons, and I think I did well.
-Author: iOSDesigner <andereder@yahoo.de>
-Name: iOS Mojave
 
 Package: com.iOSDesigner.minimalios11
 Version: 1.0
@@ -53,4 +24,31 @@ SHA256: 1767c52b69eadd8d27b3f3612b3128f865ef2d8f2b0965e2faf029fc5744db8d
 Section: Themes
 Author: iOSDesigner
 Name: Minimal iOS11
+
+Package: com.iOSDesigner.vivido
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Filename: ./debs/vivido.deb
+Size: 467210
+MD5sum: 38457385c8f393ef58ab2e36ae012dbf
+SHA1: f9dc86e6cff076c45c1e6f691d084a4f5fdee001
+SHA256: 6d55da085372207415c848991040199fda163c34f9b442de4d33f0c3074ee70e
+Section: Themes
+Author: iOSDesigner
+Name: vivido
+
+Package: com.iosdesigner.iosmojave
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Filename: ./debs/iosmojave.deb
+Size: 13772394
+MD5sum: 31b48d3c40bee32d0940d225ef18d9f7
+SHA1: 9907c75633fb27d2b664734c387f06a71e9ba1d1
+SHA256: 7d760f1336fe05c099f2d93df856671dddf9ba8a4f7df9fac3895ada1f9dc142
+Section: Themes
+Description: iOS Mojave is a theme with gradients, and over 300 edited icons. iOS Mojave supports iPhone 5 and higher and iPad3 and higher. iOS 8 - iOS 11.4.beta3. I've been working on iOS Mojave for over 3 weeks. I wanted it to be easy for the user to recognize the icons, and I think I did well.
+Author: iOSDesigner <andereder@yahoo.de>
+Name: iOS Mojave
 
