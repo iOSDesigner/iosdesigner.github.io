@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/liberte.deb
 Size: 12674766
-MD5sum: e2025f046e392dcd3dadf60748c30b45
-SHA1: fae58753c8731ce973138e1ced39c4088fab1245
-SHA256: 6ebfff099e31cfa58b3aad497292c2e2c6d9b4fa492ab749c31d5edd1e5a9bd4
+MD5sum: 5977271f57d00c8659de1e762bb269b0
+SHA1: f49221f24ba56ac26e7026e374fab84474fb8afb
+SHA256: 9c293bd8e78cb756cc4467531ade82cb27205cef51cf25cdcdaf8c847e2ade61
 Section: Themes
 Author: iOSDesigner
 Depiction: https://iosdesigner.github.io/repo/depictions/com.iOSDesigner.Liberte
@@ -19,9 +19,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
 Size: 12760576
-MD5sum: 9e67fe2be263b4bf75429b30ec511e6c
-SHA1: 656d3a4ca281dff64f1598bd8a77200b1d641231
-SHA256: 6b74bc8e2c0b95b232522e7a8d8555da229467acad939387addb4a452914e396
+MD5sum: 95bbcd4b401bfd6b4225f3494c70c47e
+SHA1: 7b86917e42f4cca218698872248aa4a9c4098dea
+SHA256: d7610d0eca0ed8ac8bb4bc797198653a9d224294e2a1433c092c1f7a0fb1a643
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -31,10 +31,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/vivido.deb
-Size: 5428256
-MD5sum: ee18ce0b38a0b76e2d75f270cdf4b50b
-SHA1: 0fad898f5de06147026c1621225ce6922bec3c79
-SHA256: 6063fa4e929a97bbe80f5ca50f5c27f28a0d84230c4f2c70d2f81f4f42748bb1
+Size: 5427944
+MD5sum: cb67c1086c1246cead39f70763aeb14d
+SHA1: 8459c7f10f9ca20a05fe94cb51a884e10124e919
+SHA256: 46f4395d0a52d2978d594a057537b17484fa463b5fe654f2def919ca215c30d1
 Section: Themes
 Author: iOSDesigner
 Name: vivido
@@ -45,9 +45,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/iosmojave.deb
 Size: 13772394
-MD5sum: b8182541b38134edac50306b9a3331df
-SHA1: 44ca59c9ca4f98b87805e16bcf83b56464557125
-SHA256: 96a17f21b3528daff09faab7b4d3786576681d795fe8567b30306e01acb1d610
+MD5sum: 62197ae12b55493ef4bcd0266d709ad7
+SHA1: 9a161c3416f2d2b4eb1038b08cde78fa8566cfb3
+SHA256: 8e450a6780beb478daa7ec9d9c286f4ab11a05b4d034e8c2cd6dc8a7c8e2e347
 Section: Themes
 Description: iOS Mojave is a theme with gradients, and over 300 edited icons. iOS Mojave supports iPhone 5 and higher and iPad3 and higher. iOS 8 - iOS 11.4.beta3. I've been working on iOS Mojave for over 3 weeks. I wanted it to be easy for the user to recognize the icons, and I think I did well.
 Author: iOSDesigner <andereder@yahoo.de>
