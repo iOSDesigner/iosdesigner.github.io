@@ -1,0 +1,7 @@
+Package: com.iOSDesigner.vivido2
+Name: vivido
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Author: iOSDesigner
+Section: Themes
+Version: 1.0
