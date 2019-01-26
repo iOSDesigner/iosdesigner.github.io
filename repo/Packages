@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/liberte.deb
 Size: 12674766
-MD5sum: f5e56108c0886e78333d986e49113a9a
-SHA1: 8569285563c389573485365cf3bb422eda7154d4
-SHA256: 42ea6200737e5fa2ea959ce92f6501ae4177c5fbedc3f788dc1dca04641542a0
+MD5sum: 3f1b59f848c4e8812a4a068b91b658c1
+SHA1: 4bbe153a946c38c9826ba2077d9070ccbf1e762b
+SHA256: e986798e71caedd2b341d836fa49224d35ef8ae3926f079bf935b868c89bab82
 Section: Themes
 Author: iOSDesigner
 Depiction: https://iosdesigner.github.io/repo/depictions/com.iOSDesigner.Liberte
@@ -19,9 +19,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
 Size: 12760576
-MD5sum: da40dc6dea4f5399de12859138dceaf9
-SHA1: 294d01aee97ff08c98d62e44db2854f512638a94
-SHA256: 139d39d5ab7ccbe3615718d2bfba593f5b4248fd3c09a9ba7075f0dbebca76b4
+MD5sum: dcb0ff0524666cb22299f8b05c534f25
+SHA1: a186d0b327f40d785aa066027fe897f73b9f36a2
+SHA256: 7a0fa0e7609dab4af1913f8d911d420580888da283000b799d42a371a5af8260
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -32,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/vivido.deb
 Size: 7823964
-MD5sum: f70e2c7f097d3f51dfa4ed9cff134094
-SHA1: 40452c8ab0e2b2ef2e57d87ee84506af0c22b3c3
-SHA256: 3ac6eec94a1da8a87fcab9cdacf9cde9dadbcf68a13a29d51cd76c1faff327d9
+MD5sum: 0f5fe381ce57299fd59e1f9d3dd9bea6
+SHA1: ddb4d0b628106404b0b34e5fdde8f5071ee03681
+SHA256: 9b9211ec133ad1c72ccfdd8140b3626fdc1ebac480e3c7b002f83c7f08fadfa8
 Section: Themes
 Author: iOSDesigner
 Name: vivido
@@ -45,9 +45,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/vivido2.deb
 Size: 8095404
-MD5sum: 9efc3c07bed3ba2e90bdc6f5398b4a3b
-SHA1: c23e268e403647bfd0b27ea5c61ad3143cff53dd
-SHA256: de040c283bb3b11f82e8661cee717836d3e2997f512bce4d9566fab45e3b31a7
+MD5sum: 1bb233651f20675b5e191360bd906b40
+SHA1: e44c7241e03899632b2b4c8abf526d914c2b3146
+SHA256: 3a5af8cd28e1f0b92a092d310dfd90fce38dc6fa1bcb2603cec981e147d8ac5e
 Section: Themes
 Author: iOSDesigner
 Name: vivido2
@@ -58,9 +58,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/vivido3.deb
 Size: 3751518
-MD5sum: 29be15bb9566affc698c815e66103985
-SHA1: e1d55b79ff8dd747f2975a3bf9b41822e6e57e79
-SHA256: a5919359cdc3a4a56015e8cccb830333ff29c1caf99b420412c7dc9fb4a8416c
+MD5sum: 0828c81bc99b81dcbded92959f5acebf
+SHA1: 1cc644ede0ee21db0c3d6294b724a1e611fb0416
+SHA256: a79beb63a1b6f5e60c276b0e8e6135efa41c77f1e56715945f347df261c2af25
 Section: Themes
 Author: iOSDesigner
 Name: vivido3
@@ -71,9 +71,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/iosmojave.deb
 Size: 13772394
-MD5sum: 2947ff308179177710f4753b8302a136
-SHA1: 251167879064008cec4f7958c09412f908770da0
-SHA256: 19031e9876084052d43fcc10ad06c7701e2bf4807577f43fd45bbc337354d2b4
+MD5sum: 24d00233cc091ad60baf54fc48de5adc
+SHA1: 07c07bf810e88e4273321008d9d5505ec2797cd6
+SHA256: 7c5a82437038cd425b4422058f7ff6a3a8f9e3571f7c42a68f2a4508baaab483
 Section: Themes
 Description: iOS Mojave is a theme with gradients, and over 300 edited icons. iOS Mojave supports iPhone 5 and higher and iPad3 and higher. iOS 8 - iOS 11.4.beta3. I've been working on iOS Mojave for over 3 weeks. I wanted it to be easy for the user to recognize the icons, and I think I did well.
 Author: iOSDesigner <andereder@yahoo.de>
