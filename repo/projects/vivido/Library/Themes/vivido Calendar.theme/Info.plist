@@ -8,7 +8,7 @@
         <key>CalendarIconDaySettings</key>
     <dict>
         <key>FontSize</key>
-          <integer>0</integer>
+          <integer>16</integer>
         <key>ShadowBlurRadius</key>
           <integer>0</integer>
         <key>ShadowColor</key>
@@ -35,7 +35,7 @@
         <key>TextColor</key>
           <string>#f2625b</string>
         <key>TextYoffset</key>
-          <real>8</real>
+          <real>6</real>
     </dict>
         <key>IB-MaskIcons</key>
 	<true/>
