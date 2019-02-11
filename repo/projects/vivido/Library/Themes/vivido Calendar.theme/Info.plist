@@ -14,7 +14,7 @@
         <key>ShadowColor</key>
           <string>rgba(0,0,0,0)</string>
         <key>TextColor</key>
-          <string>#f2625b</string>
+          <string>#ffffff</string>
         
         <key>TextYoffset</key>
           <real>0</real>
@@ -23,7 +23,7 @@
     <key>CalendarIconDateSettings</key>
     <dict>
         <key>FontSize</key>
-          <integer>35</integer>
+          <integer>30</integer>
         <key>ShadowBlurRadius</key>
           <integer>0</integer>
         <key>ShadowColor</key>
