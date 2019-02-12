@@ -8,7 +8,7 @@
         <key>CalendarIconDaySettings</key>
     <dict>
         <key>FontSize</key>
-          <integer>16</integer>
+          <integer>10</integer>
         <key>ShadowBlurRadius</key>
           <integer>0</integer>
         <key>ShadowColor</key>
