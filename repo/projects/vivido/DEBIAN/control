@@ -1,7 +1,8 @@
-Package: com.iOSDesigner.vivido
+Package: com.iosdesigner.vivido
 Name: vivido
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
+Description: Vivido is a Flat Theme with over 250 Icons. Besides, it has a lot of little other changes. A few examples: Changed Anemone Icon, Changed Cydia Button (installing, search ...), Loading Circle, Change Mute and Speaker and more ... I hope you like it. If you buy Vivido1 there is Vivido2 and Vivido3 for free. So always insert your email so I can give it to you.
 Author: iOSDesigner
 Section: Themes
-Version: 1.0
+Version: 1.0.0
