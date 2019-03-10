@@ -5,11 +5,11 @@
 	<key>CalendarIconDateSettings</key>
 	<dict>
 		<key>FontSize</key>
-		<integer>7</integer>
+		<integer>9</integer>
 		<key>TextColor</key>
 		<string>#000000</string>
 		<key>TextYoffset</key>
-		<real>5</real>
+		<real>3</real>
 	</dict>
 	<key>CalendarIconDateStyle</key>
 	<string>color:#000000;font-size:7px;padding-top:5;</string>
@@ -18,14 +18,14 @@
         <key>FontSize</key>
         <integer>10</integer>
 		<key>TextYoffset</key>
-        <integer>1</integer>
+        <integer>0</integer>
         <key>TextColor</key>
         <string>#ffffff</string>
         <key>ShadowColor</key>
         <string>rgba(0,0,0,0)</string>
     </dict>
 	<key>CalendarIconDayStyle</key>
-	<string>font-size:5px;color:#ffffff;text-shadow:0px 0px 0px;</string>
+	<string>font-size:7px;color:#ffffff;text-shadow:0px 0px 0px;</string>
 	<key>IB-MaskIcons</key>
 	<true/>
 </dict>
