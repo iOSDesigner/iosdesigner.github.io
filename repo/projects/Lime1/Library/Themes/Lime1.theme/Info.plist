@@ -5,20 +5,20 @@
 	<key>CalendarIconDateSettings</key>
 	<dict>
 		<key>FontSize</key>
-		<integer>11</integer>
+		<integer>16</integer>
 		<key>TextColor</key>
 		<string>#000000</string>
 		<key>TextYoffset</key>
-		<real>-2</real>
+		<real>12</real>
 	</dict>
 	<key>CalendarIconDateStyle</key>
 	<string>color:#000000;font-size:10px;padding-top:5;</string>
     <key>CalendarIconDaySettings</key>
     <dict>
         <key>FontSize</key>
-        <integer>11</integer>
-		<key>TextYoffset</key>
         <integer>12</integer>
+		<key>TextYoffset</key>
+        <integer>-6</integer>
         <key>TextColor</key>
         <string>#000000</string>
         <key>ShadowColor</key>
