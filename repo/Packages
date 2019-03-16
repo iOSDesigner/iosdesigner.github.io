@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/liberte.deb
 Size: 12674766
-MD5sum: 8cc2d59423b1f34d018d6f0d65bfebd8
-SHA1: 6be5651aefd4f34b01eb7a8d374bfacc5abf54be
-SHA256: ce998e09631fb570b828c18d084c0e4dd283ceda015eb91b23e89d535ebde8e5
+MD5sum: d82bfcf433e1aa8876a82ff70cd5fdc2
+SHA1: fcf551be28e5e86140ac32435baf64efc35077dd
+SHA256: e4b3237179ffb3f80de0231f16cc6859a8f2a654f20c3c2ad289f908bf292369
 Section: Themes
 Author: iOSDesigner
 Depiction: https://iosdesigner.github.io/repo/depictions/com.iOSDesigner.Liberte
@@ -19,9 +19,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
 Size: 12760576
-MD5sum: 63ab0d2cecff7a20a6224907061254bd
-SHA1: a9ebd625c63bdcaf732493675332099bd7c37fdc
-SHA256: 5c37cbc670729510e05f46672a82db9fc9e8e9af46da402705df9168cbd6c2c3
+MD5sum: a98b88aa56348f0f62ed69d0ec1a1049
+SHA1: a79acbf537d83956d3aa9b0d7c718ca188ab3c0a
+SHA256: 644718cf2f05dc512d84d5fa2935409d9922e92c9e1d7b22e8d258a1d90e8c48
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -32,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/vivido2.deb
 Size: 10013526
-MD5sum: 5c25f2c5e3f559f7a3f71f7cf71f7862
-SHA1: 56896a1be67549d74f99d3d735b90734753e06ea
-SHA256: a2245938b62d4632f19eefcd9fb437fe3d2afde6e90f577ea232cf85b78692a5
+MD5sum: 47f8738e264f0d8619e24bcb4ecc67db
+SHA1: 1851e0a01be1c37398fda8e87ccf224c53fe4ae3
+SHA256: 9d63513ba0c3272b4642bcdc45266584928fc00c7aadd581c3b6f8b8ae34eff2
 Section: Themes
 Author: iOSDesigner
 Name: vivido2
@@ -45,9 +45,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/vivido3.deb
 Size: 6096054
-MD5sum: 8d8514520d2f5b5fc786249dd6d598ab
-SHA1: aeeb3598193777469a7de086f51f806bc3b63615
-SHA256: 8df6a02a0276524ebb8ff055cae997c3884fe7fbee0d967247aaabe28aa77b13
+MD5sum: a1cbd91260fac5dd1c71273a896d7255
+SHA1: 2c6242943641b71911102047d5b02fb4d2f82537
+SHA256: 94415a7d83621b63a4964bed59315a8ed2995a517ba355ad3e746e8cd94e48ed
 Section: Themes
 Author: iOSDesigner
 Name: vivido3
@@ -58,9 +58,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/Lime1.deb
 Size: 4768788
-MD5sum: d10b96ccce7a9c413c5762b9376e8c26
-SHA1: 3af3f1000d8d8cc87936607549c65d3fe602317a
-SHA256: b6cefd3bbe93d584866217e91d475ee84be91716b5758288b73c3f671fc321f1
+MD5sum: 8f9889ae3f5e157fae734db5f9b7f79c
+SHA1: aa63e21cae1ec0c51aa7a33524bab223006c6dcb
+SHA256: f1dffe03df80a0dc4cce8a00e413c4c9ac9aa4adfe4b8e90e9b17fd5c447583b
 Section: Themes
 Description: Vivido is a Flat Theme with over 250 Icons. Besides, it has a lot of little other changes. A few examples: Changed Anemone Icon, Changed Cydia Button (installing, search ...), Loading Circle, Change Mute and Speaker and more ... I hope you like it. If you buy Vivido1 there is Vivido2 and Vivido3 for free. So always insert your email so I can give it to you.
 Author: iOSDesigner
@@ -72,9 +72,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/iosmojave.deb
 Size: 13792888
-MD5sum: 23b131d9496c3d95390818bbcc355293
-SHA1: ea5767f6531cf9fca2a62144884b947ab6ad8a94
-SHA256: 87e015d58d59d2d85cd4b072d35ca93a9dc75d5b4def6cead69df909e827f727
+MD5sum: fb2b7dc080614606870408e338e57fc8
+SHA1: fb5d88e64fc39498cf30755fa927dd2268577140
+SHA256: 9c767b2a63717aebbec7b20960bcbe931f02e9c318512039b81909099bbbab41
 Section: Themes
 Description: iOS Mojave is a theme with gradients, and over 300 edited icons. iOS Mojave supports iPhone 5 and higher and iPad3 and higher. iOS 8 - iOS 11.4.beta3. I've been working on iOS Mojave for over 3 weeks. I wanted it to be easy for the user to recognize the icons, and I think I did well.
 Author: iOSDesigner <andereder@yahoo.de>
@@ -86,9 +86,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/vivido1.deb
 Size: 11737004
-MD5sum: b8c9aafd88504952ae2de8569a0e31ff
-SHA1: af78ab19673142d39c0b83273fd0ab3d308dbb2f
-SHA256: b77b329c01017b7ae132ab6a9b5bee276906d5167162f99776874c345fab870b
+MD5sum: 06e926472c096982f92eff7c94e364e9
+SHA1: 0b0ab5c08347b2a0b07e0137b95ac70bc34ab51a
+SHA256: 2cba3fdeaeb13b856f318639a932d06b3d0d2d70f68d590e14bacc80e927e8bc
 Section: Themes
 Description: Vivido is a Flat Theme with over 250 Icons. Besides, it has a lot of little other changes. A few examples: Changed Anemone Icon, Changed Cydia Button (installing, search ...), Loading Circle, Change Mute and Speaker and more ... I hope you like it. If you buy Vivido1 there is Vivido2 and Vivido3 for free. So always insert your email so I can give it to you.
 Author: iOSDesigner
