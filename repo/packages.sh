@@ -6,4 +6,4 @@ dpkg-deb -bZgzip projects/minimalist
 dpkg-deb -bZgzip projects/vivido1
 dpkg-deb -bZgzip projects/vivido2
 dpkg-deb -bZgzip projects/vivido3
-dpkg-deb -bZgzip projects/SweetPotato
+dpkg-deb -bZgzip projects/Sweetpotato
