@@ -1,0 +1,8 @@
+Package: com.iOSDesigner.Venice
+Name: Venice
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Author: iOSDesigner
+Depiction: https://iosdesigner.github.io/repo/depictions/com.iOSDesigner.Liberte
+Section: Themes
+Version: 1.0.0

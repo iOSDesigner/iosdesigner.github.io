@@ -1,8 +1,0 @@
-Package: com.iOSDesigner.Minimal.ios12
-Name: Minimal.ios12
-Architecture: iphoneos-arm
-Maintainer: iOSDesigner
-Author: iOSDesigner
-Depiction: https://iosdesigner.github.io/repo/depictions/com.iOSDesigner.Liberte
-Section: Themes
-Version: 1.0.0
