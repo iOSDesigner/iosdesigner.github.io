@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/liberte.deb
 Size: 12674766
-MD5sum: 538b76552c8361d792f570fa01944482
-SHA1: 099b4cd6ab2931ac290fcdc3f104ff9f64ee5bbd
-SHA256: c1b697adc7d2904d4953f1ff500c66a1be180ebd36dd3e31b078c87249eddce6
+MD5sum: 3ac203606e92547825ca0893b36beeec
+SHA1: 7be40f0308b7036cbc5d61f6239e6528b2417aa1
+SHA256: 46fe5ba3c0ccab57c8ad0191cad739a2340645d448477bf455202b47ca3b1c1d
 Section: Themes
 Author: iOSDesigner
 Depiction: https://iosdesigner.github.io/repo/depictions/com.iOSDesigner.Liberte
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/Venice.deb
 Size: 1024444
-MD5sum: 1f03b674c26715851adf383040c49d2c
-SHA1: f0a2c415249dba2ca76425766ac05cc9a8875cbf
-SHA256: 89e1dda8c0d17031fd20953ee26daca1815305b70a53004d844c9755d75a37a9
+MD5sum: 00486bc54af82aa1caf625cc66fc5b59
+SHA1: 7c56b69d7b3f76e0e64255716613041c6e66ef86
+SHA256: 8182fdf3e782bdf7501d9adce82176b01ddaccaa956c69aa77426bfe03e71e62
 Section: Themes
 Author: iOSDesigner
 Depiction: https://iosdesigner.github.io/repo/depictions/com.iOSDesigner.Liberte
@@ -33,9 +33,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
 Size: 12760576
-MD5sum: 9ad858167f6f30be3d7c4c532a98203e
-SHA1: 2b5b62f798b4ff8e0c5bbc72196edefb68c9f015
-SHA256: 9f256e6a75e5330fb42cdc5ff3bf4b8812563a3c904707b27f0f516cc4c9c37d
+MD5sum: 53d8719b8223317086fc22c6cc277039
+SHA1: 2f142ba9b73f5ee7d0497229f31f554fbb10e1a4
+SHA256: 638553824e658458df201664b4b34134eabae950302b46d26b47df291c30b5cd
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -46,9 +46,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/vivido2.deb
 Size: 10013532
-MD5sum: 3b55331a174a633e5e8d96f4f32471db
-SHA1: 349e2c521a0550f9604823513d73c978c7a2e9d3
-SHA256: 1400bece23bbf4710edb7261867bef7a82e17f9bb380259eb80f3bfcfa573ef0
+MD5sum: 840ba02f144fcba952393859b6191af2
+SHA1: d85490bc0dad2a12a286b19e036a1161d9962a21
+SHA256: 976d7795c917e38762674da67a3d7540c23cf20826408f905119cf99f5c6daf3
 Section: Themes
 Author: iOSDesigner
 Name: vivido2
@@ -59,9 +59,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/vivido3.deb
 Size: 6096054
-MD5sum: 6a2eb098a4f00aab035191e698dfe46b
-SHA1: d4e1b0d666a891286e817c6047b33f60ec058f26
-SHA256: 8c185b2a1677cc0108e261aa40eb1b3cc755e626419fc83997b7c0d95390dcf0
+MD5sum: d7b89a4814bbfdf1c4cbde2b09e59585
+SHA1: 8e58e3c83d9dceb21c48bd19e0b0bb67695a783a
+SHA256: 004925aa61addf1d63794ac79e040fbe2e1b0c0f68ee925bf10e65aa306e04aa
 Section: Themes
 Author: iOSDesigner
 Name: vivido3
@@ -71,10 +71,10 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/Minimal.ios.12.deb
-Size: 2207112
-MD5sum: a42daba958d91bc4309cafd590a6a091
-SHA1: 317e8255b8338ae23ed47ab51a6d60694fef7a22
-SHA256: 229201c0553793a9a770b80a17740b68559a2cd9f80fe426c0e657c71b669c42
+Size: 2207110
+MD5sum: 09a8f8b9fad5e1ae1699b83667a40853
+SHA1: 21a40b8a12b2841fa71746337a2100a938a0c989
+SHA256: 3e6919c30520653d9800349cf56dc1bd4b54ddbf76abc54645aec4602582a852
 Section: Themes
 Description: Minimal.iOS9 comes back in Cydia for iOS 9 - iOS 11! Besides, it only works in Anemone for all 64 Bit iDevices. Minimal.iOS11 is exactly the original of Minimal.iOS9 !.
 Author: iOSDesigner
@@ -86,9 +86,9 @@ Architecture: iphoneos-arm
 Maintainer: iosdesigner
 Filename: ./debs/Sweetpotato.deb
 Size: 3999862
-MD5sum: 635b7c49289f3f40df23fe46cb01fb2f
-SHA1: da4d641b552f96771f1b5f256bbd428358ca6cee
-SHA256: 1f59efe698adf6763c501acb39d00d599746250d76ab9d83678104cea48c6072
+MD5sum: 32920f5418b5fed6dda40049a8bcf0e6
+SHA1: ee43a1f94d1214fdadfda8a30883c97617d9a34e
+SHA256: adf6b231c2ced3b90cad76f43efb92c78de0aa1e97be61f31fba134e35e2a217
 Section: Themes
 Description: Sweet Potato is a gradient Theme with more than 100 Icons. I added a Mask for Anemone, Setting Icons edited for Anemone and change. Sections icons added for Cydia. UI-Load Symbol changed in Cydia. These Extras only works with Anemone iOS11 User.
 Author: iosdesigner
@@ -100,9 +100,9 @@ Architecture: iphoneos-arm
 Maintainer: iosdesigner
 Filename: ./debs/Sweetpotato1.deb
 Size: 4394626
-MD5sum: ab137c651166f1cc27e5282f994d4a58
-SHA1: 82fb5a6dd81b221b85f678e511737bb4100c3a58
-SHA256: 668f0073a6e966e68f772cdab90403df6c4c65be29d01610107e16c23fd8736c
+MD5sum: cb35b20de7d88e51f31bb09edf6c16f0
+SHA1: de8ce03ff8b3c14eaaa12757a8b6e868d3f78772
+SHA256: b2c9a4cbb31f68f43d58fbdfe584c0453c40a442283b4300341eb85d14dc344e
 Section: Themes
 Description: Sweet Potato is a gradient Theme with more than 100 Icons. I added a Mask for Anemone, Setting Icons edited for Anemone and change. Sections icons added for Cydia. UI-Load Symbol changed in Cydia. These Extras only works with Anemone iOS11 User.
 Author: iosdesigner
@@ -114,9 +114,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/iosmojave.deb
 Size: 13792888
-MD5sum: 03da6551bf848ae446f5c4d11a325b43
-SHA1: 9733b5191a9853b0a6954fe1b52ad846f4cd2547
-SHA256: 6bac1c534c9774d884138e892ed10eab67a209292587f2f34794036a611e3ffb
+MD5sum: 255e5e7bc53542aa3c31ba71e7d3b03c
+SHA1: 64b0c678888cb7f30884db344bd8218f189cce4a
+SHA256: 10eac2e0704ee554c4b1e50ddb20051ed99c2a6fd44b567f354a0d13750988c9
 Section: Themes
 Description: iOS Mojave is a theme with gradients, and over 300 edited icons. iOS Mojave supports iPhone 5 and higher and iPad3 and higher. iOS 8 - iOS 11.4.beta3. I've been working on iOS Mojave for over 3 weeks. I wanted it to be easy for the user to recognize the icons, and I think I did well.
 Author: iOSDesigner <andereder@yahoo.de>
@@ -128,9 +128,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/vivido1.deb
 Size: 11737004
-MD5sum: 2d12fc25df4ebd25a7e530d9a9c2da29
-SHA1: aa25868b1693e10b1ec5de4595a68518af66b5cd
-SHA256: 419c4a97adbbdb00e5c26ee9a746c6e3d5a2634467e2b16f2fe32160f800a21e
+MD5sum: fe834ca51c6dbbdc57951f4c5fbae1cb
+SHA1: 6da4225689f0d3c5774bf11d6826372f9894a359
+SHA256: e2b806272f55d34787b3b071f6b77f87f6660497cfe3b1495346cf146883308d
 Section: Themes
 Description: Vivido is a Flat Theme with over 250 Icons. Besides, it has a lot of little other changes. A few examples: Changed Anemone Icon, Changed Cydia Button (installing, search ...), Loading Circle, Change Mute and Speaker and more ... I hope you like it. If you buy Vivido1 there is Vivido2 and Vivido3 for free. So always insert your email so I can give it to you.
 Author: iOSDesigner
