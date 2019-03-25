@@ -1,8 +1,8 @@
-Package: com.iosdesigner.Minimal.ios.12
+Package: com.iosdesigner.Minimal.ios12
 Name: minimal.iOS.12
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Author: iOSDesigner
 Description: Minimal.iOS9 comes back in Cydia for iOS 9 - iOS 11! Besides, it only works in Anemone for all 64 Bit iDevices. Minimal.iOS11 is exactly the original of Minimal.iOS9 !.
 Section: Themes
-Version: 1.0.0
+Version: 1.0.1
