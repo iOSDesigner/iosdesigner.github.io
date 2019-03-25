@@ -8,4 +8,4 @@ dpkg-deb -bZgzip projects/vivido2
 dpkg-deb -bZgzip projects/vivido3
 dpkg-deb -bZgzip projects/Sweetpotato
 dpkg-deb -bZgzip projects/Sweetpotato1
-dpkg-deb -bZgzip projects/Minimal.ios12
+dpkg-deb -bZgzip projects/Min.ios12
