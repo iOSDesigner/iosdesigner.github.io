@@ -1,28 +1,28 @@
+Package: com.iOSDesigner.Minimalios12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner <andereder@yahoo.de>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/Minimalios12.deb
+Size: 2282038
+MD5sum: c18db0aaf1c2e63a662972669ca4f116
+SHA1: 4c520af3b46138cebdf8bc290d4494dbcd14b8b5
+SHA256: eb2474fd6c2df400020f6b86d7c33a0cf25e2dcb0d37f2cf8d633f2b197469ea
+Section: Themes
+Author: iOSDesigner <andereder@yahoo.de>
+Name: Minimalios12
+
 Package: com.iOSDesigner.biscuitios11
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
-Size: 12760554
-MD5sum: 2c5843bd649b42993f132c64094cfc6a
-SHA1: 8c4244a1641a34a17d82e4d88eb3f45a838f3c25
-SHA256: 88d80a0b73f57d28a1669bb244d8b2b5ec5f39e9fdd4fd386abfe19e1c155022
+Size: 12760560
+MD5sum: 8ff121893e057636edf6a8b6b744c3e9
+SHA1: c9f96ee2a33e6cafe2a99a3277af6c28b4d61a3e
+SHA256: e08fdfa11577c002a9b1d211ce241e1bda26b62149edc9f9cab2472681319ec1
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
-
-Package: com.iosdesigner.Minimalios12
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: iOSDesigner
-Filename: ./debs/Minimalios12.deb
-Size: 2282118
-MD5sum: 78adb72cc6902f10f09e3eac72e65206
-SHA1: 744abe75707668d6a11fa6cc336a43d1900374dc
-SHA256: 7266ba30d364c227399b040ab4cbeb811c9d7a7f49f9bf9d9fd2692cb58fb1ff
-Section: Themes
-Description: Minimal.iOS9 comes back in Cydia for iOS 9 - iOS 11! Besides, it only works in Anemone for all 64 Bit iDevices. Minimal.iOS11 is exactly the original of Minimal.iOS9 !.
-Author: iOSDesigner
-Name: Min.ios12
 
