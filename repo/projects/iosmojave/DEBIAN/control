@@ -1,9 +1,0 @@
-Package: com.iosdesigner.iosmojave
-Name: iOS Mojave
-Version: 1.0.0
-Architecture: iphoneos-arm
-Author: iOSDesigner <andereder@yahoo.de>
-Description: iOS Mojave is a theme with gradients, and over 300 edited icons. iOS Mojave supports iPhone 5 and higher and iPad3 and higher. iOS 8 - iOS 11.4.beta3. I've been working on iOS Mojave for over 3 weeks. I wanted it to be easy for the user to recognize the icons, and I think I did well.
-Section: Themes
-Maintainer: iOSDesigner
-
