@@ -1,2 +1,3 @@
 #!/bin/bash
 dpkg-deb -bZgzip projects/Minimalios12
+dpkg-deb -bZgzip projects/biscuitios11
