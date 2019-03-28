@@ -1,8 +1,0 @@
-Package: com.iOSDesigner.Minimalios12
-Name: Minimalios12
-Version: 1.0
-Architecture: iphoneos-arm
-Author: iOSDesigner <andereder@yahoo.de>
-Section: Themes
-Depends: com.anemonetheming.anemone
-Maintainer: iOSDesigner <andereder@yahoo.de>
