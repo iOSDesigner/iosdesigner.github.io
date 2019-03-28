@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/Minimalios12.deb
-Size: 2282038
-MD5sum: c18db0aaf1c2e63a662972669ca4f116
-SHA1: 4c520af3b46138cebdf8bc290d4494dbcd14b8b5
-SHA256: eb2474fd6c2df400020f6b86d7c33a0cf25e2dcb0d37f2cf8d633f2b197469ea
+Size: 3968902
+MD5sum: 3e4c570dd73d798bd84ea941e4d271d6
+SHA1: c9a2b097f16ea750e5a1d089f7b581be10fc7edf
+SHA256: a37dfb8509a41887df347c5a6868d85c1d0be1675421d9a6c074008cd50eb94a
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Minimalios12
@@ -19,9 +19,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
 Size: 12760560
-MD5sum: 8ff121893e057636edf6a8b6b744c3e9
-SHA1: c9f96ee2a33e6cafe2a99a3277af6c28b4d61a3e
-SHA256: e08fdfa11577c002a9b1d211ce241e1bda26b62149edc9f9cab2472681319ec1
+MD5sum: c9affb2b1ad9d161504eae237ced50d7
+SHA1: b0700acc8e96d77fdae0613fa604792b3088e574
+SHA256: 3a6be4cc38fd416f8469a4acf5bdf60da33536554e261f1d79b5da3d8615e077
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
