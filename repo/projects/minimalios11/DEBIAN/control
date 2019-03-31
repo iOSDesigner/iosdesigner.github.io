@@ -3,6 +3,6 @@ Name: Minimal iOS12
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Author: iOSDesigner
-Description: Minimal.iOS9 comes back in Cydia for iOS 9 - iOS 11! Besides, it only works in Anemone for all 64 Bit iDevices. Minimal.iOS11 is exactly the original of Minimal.iOS9 !.
+Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS12. We've added 70 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS12 now has over 600 icons including two alternative icons (Appstore and iTunes Store).
 Section: Themes
-Version: 1.0.8
+Version: 1.0.9
