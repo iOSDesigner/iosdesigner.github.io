@@ -1,8 +1,0 @@
-Package: com.iosdesigner.Fiona
-Name: Fiona
-Architecture: iphoneos-arm
-Maintainer: iOSDesigner
-Author: iOSDesigner
-Description: Private theme 
-Section: Themes
-Version: 2.0.0

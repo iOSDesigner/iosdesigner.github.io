@@ -5,26 +5,12 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
 Size: 12760560
-MD5sum: 7d81b92718ef08ac91eff331f2f5e4ae
-SHA1: 18803d7b32e9d8028d73591bbc8d89f7332ade84
-SHA256: c6ec66c7e1ea24bd578cf2a9900d217e3625592cd86f48e319320cc53914cda4
+MD5sum: 6c873904769b8ac1d9d7c33c40fb7551
+SHA1: 4932b1139a9308bc384f26cf8eff62539fb0591b
+SHA256: baa6c744b76e96a02ebb18e902906b3d1e2442398cf678bfb1a0bbe3a4fca951
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
-
-Package: com.iosdesigner.Fiona
-Version: 2.0.0
-Architecture: iphoneos-arm
-Maintainer: iOSDesigner
-Filename: ./debs/fiona.deb
-Size: 754794
-MD5sum: 6c25e52b61cc3af4933a5abfb4e4882d
-SHA1: 2aa18a1cc200df1336cd1ecc2f4562cc088f901b
-SHA256: e6a6b5dff78ed9e9d58260af4710db0dfea761cb023ba9a413a154beb7ef5193
-Section: Themes
-Description: Private theme
-Author: iOSDesigner
-Name: Fiona
 
 Package: com.iosdesigner.minimalios11
 Version: 1.1.1
@@ -32,11 +18,25 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/minimalios11.deb
 Size: 5766860
-MD5sum: 72f21a11a628b364d7f24bb0794a131c
-SHA1: 4e7fd8849e25a3b8741386f414b74342b8c22215
-SHA256: 07c9a48d1ca52080dd3e0669baf8142cea7959bc43cd8d846a5446a0e13ccd23
+MD5sum: e14c67bf63ff9ddaa736da95094fafc4
+SHA1: 399d71a0505b43f1e8c5a1539aa09ebd2e269a21
+SHA256: 9a23804dc7b7f516a45abe21b3850bfeadaa976598330019c8e4294917a251ec
 Section: Themes
 Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS12. We've added 70 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS12 now has over 600 icons including two alternative icons (Appstore and iTunes Store).
 Author: iOSDesigner
 Name: Minimal iOS12
+
+Package: com.iosdesigner.nini
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Filename: ./debs/nini.deb
+Size: 754684
+MD5sum: 76a97b36a756df58be2722ce52d17a9b
+SHA1: 52b5d53b14d3fb7f7ea0009cf942193c2526d6f2
+SHA256: 0e00b8c2dd429cae83b68e2d2dd655f96e06f76e0c1d0012165d44e5f744040a
+Section: Themes
+Description: Private theme
+Author: iOSDesigner
+Name: Nini
 
