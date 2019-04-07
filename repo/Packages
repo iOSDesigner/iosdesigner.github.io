@@ -5,9 +5,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
 Size: 12760560
-MD5sum: ae3c107825d45913f45ecebcd527be7a
-SHA1: 33303df8d48ac6441cfcd7c20c04011d72d4d7e8
-SHA256: 05a0d06b6aa1813f11b03fca3db75677355874265b36007046365bd8b5f3255b
+MD5sum: 69a9f8c6a0087527a50d707cfd88dc56
+SHA1: 4d751612c55458118bfa12e04f148c3ebbb6c7f0
+SHA256: 5dc9a84ae7ddd3809da919629236eae121e67406c63071715c5d8aeaec8098a8
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -18,23 +18,23 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/minimalios11.deb
 Size: 5766860
-MD5sum: e774711ed663a9a3be5705d3c6117196
-SHA1: 0b3114c2c8c95282b83d7680010601fd2b37a7e5
-SHA256: 2d5972c490e878aeb5f213a77cee509d40f444da61d1c22937decbd6d565be84
+MD5sum: 865d67054bed446335666bfdb66c4a01
+SHA1: b3b6ffcba3ac1a322cf13fb6700f6f75dca885a0
+SHA256: 3c25b1fe51e68a30e3683fa4003fe8f8fe40e5c7d28170b07ecde9ae551b4585
 Section: Themes
 Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS12. We've added 70 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS12 now has over 600 icons including two alternative icons (Appstore and iTunes Store).
 Author: iOSDesigner
 Name: Minimal iOS12
 
 Package: com.iosdesigner.nini
-Version: 2.0.6
+Version: 2.0.7
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/nini.deb
-Size: 1265802
-MD5sum: 3056d05da67168dcf377f042d6430fd7
-SHA1: 0151261fdd1d9f1206fa8962eefb1d49499f95ee
-SHA256: e22b2e77c80c93e0b8033859132d3620f1f384d2fb5ed89d7b687d1efbac88e0
+Size: 1265814
+MD5sum: 4b2ba8b1e58db47b80128fa381cf7e2d
+SHA1: 5eb2abdae984d2c33106463c96af320f3d3f7056
+SHA256: 239a0daedd0c4ec5cfb9d06bb02ebe66df201d4005247bfafdfd9cc420d4a231
 Section: Themes
 Description: Private theme
 Author: iOSDesigner
