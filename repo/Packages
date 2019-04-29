@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/Niki.deb
-Size: 3122468
-MD5sum: 6129f75252bea4997fdbf56e0ca766a4
-SHA1: 5940fa7fc74dc2dfa2cf7a476bdb1218136121d1
-SHA256: 87572ba529778913ceb31c24ae22661d26a23e79aad477766b503ec52255a3e5
+Size: 3122042
+MD5sum: c041da9bffd8dd6aeeee6d0c1d12d961
+SHA1: dc643a882d589f04fd34437baa60be525b816a3a
+SHA256: 87caa585e2a60cae4821b6d8452205857af47f0e94324ca76097eea905573064
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Niki
@@ -19,9 +19,9 @@ Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/biscuitios11.deb
 Size: 12760560
-MD5sum: 4e186b1898c7c1d4659efa10df92914a
-SHA1: 8a5fdf287a1b090f5435aec4ccd9e4e6fe959ae5
-SHA256: 7e863a1819cbe531cc314e1e7787fc5aac59beedcda467624f4bc6296aecd340
+MD5sum: 02272ff794a0d7fe2c81782e025de164
+SHA1: f5d2e123f7e77e8043178ec36ee95abad7c26a83
+SHA256: eb49813095fe0d0e974dc921eca3d8ee03730e322f6c415257654d275aa54ba4
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -32,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/minimalios11.deb
 Size: 5766866
-MD5sum: 67a532370696ad37d1e4d414ba594ee5
-SHA1: 01d13c76e02cb7973d7e08bca42c6d5eab10e0f8
-SHA256: 676fbfa40a004bf24456b2c13d98a23056a78c1324b7c6927243568c93f9fc82
+MD5sum: 3b77da11ed1ecc2d3791db6646acbb46
+SHA1: 5ae425ef10f427708962bbd47f90f1c49e7ab786
+SHA256: 8b1fc603709c9556080b0f0a609a1c29b699618104b1d96826606f4e741d6c6f
 Section: Themes
 Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS12. We've added 70 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS12 now has over 600 icons including two alternative icons (Appstore and iTunes Store).
 Author: iOSDesigner
@@ -46,9 +46,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/nini.deb
 Size: 1266100
-MD5sum: 7bc15c23168a13c6c6b614076553e72f
-SHA1: 1d39d76eea79128d832755e501b1a5b649a7cf20
-SHA256: 7d8f8f8376dac00362d10ecfcce5f0e2519a8a632ceb25bdb578e72f4c1a8acc
+MD5sum: 04a745ce33c855e3a6a3b68229a66159
+SHA1: ca50406b8f5b6642cb6bee84dd3f13a9edf666ce
+SHA256: b9e0460050d1c69ecc5243b0ec503608d72e4c309010ebbcb5640a4b03c78bcc
 Section: Themes
 Description: Private theme
 Author: iOSDesigner
