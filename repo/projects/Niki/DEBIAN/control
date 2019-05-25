@@ -1,9 +1,9 @@
 Package: com.iOSDesigner.Niki
 Name: Niki
-Version: 1.1.7
+Version: 1.1.8
 Architecture: iphoneos-arm
 Author: iOSDesigner <andereder@yahoo.de>
 Section: Themes
-Conflicts: com.anemonetheming.anemone
+Depends: com.spark.snowboard
 Maintainer: iOSDesigner <andereder@yahoo.de>
 
