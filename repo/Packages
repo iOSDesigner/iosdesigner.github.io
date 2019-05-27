@@ -1,27 +1,27 @@
 Package: com.iOSDesigner.Niki
-Version: 1.1.8
+Version: 1.1.9
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.spark.snowboard
 Filename: ./debs/Niki.deb
-Size: 2471180
-MD5sum: dce4f48e019ad8fad7ced612ffda1fef
-SHA1: 223370f5299c57043b552e0d80ea61a0c1162005
-SHA256: 0dac792f5724aaf2c47a80154031bfd6ade015bb324712659e018690694a832e
+Size: 2469580
+MD5sum: af31ffd1cbd73321fc360a915c69d1bc
+SHA1: 643ce2364abd2dc0d56864436658aa19789c9a8f
+SHA256: 4a3726c7f0c92128df703d1770df4af84d57beccc7e37a07f6070615bb5971ed
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Niki
 
 Package: com.iOSDesigner.biscuitios11
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner <andereder@yahoo.de>
-Depends: com.anemonetheming.anemone
+Depends: com.spark.snowboard
 Filename: ./debs/biscuitios11.deb
-Size: 12760560
-MD5sum: 5258ddd60a951c058e4a1ba357ef50e3
-SHA1: ebd458b7eb02d8953cf9eb495aa4ac324417979b
-SHA256: 84865e452d0f837b103a74d8d03c7bf614f339b9b8c52dbfe06fdff4df10da8e
+Size: 12760558
+MD5sum: 6d715d2f2f4c22bd1219cdb4b7ac69a3
+SHA1: a69b18593fa913d8466f62968c6f5a0cdb47d341
+SHA256: 868c662861d8610e9a6be202da1fb21d7bff6a4e62207898a6864b45265d1151
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -32,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/minimalios11.deb
 Size: 5766866
-MD5sum: eb9f83e3fe3a7215813b1ef3f98038a9
-SHA1: 5c52dd37b9fbf56b27f2895601ac4bf8a0136bb1
-SHA256: bedcea15ff751bedb3d36bbb1852d7d17d4c1381de9dc7c499207ec725910bea
+MD5sum: b7ef8866517e79aa31cd17a1848ba3d6
+SHA1: acc531deb59bee21f57adb8b821b9eb95c4be922
+SHA256: fefc8e5c41bf75a7847bb25e7e5daadfa675e3c8e06a12773dd0b80c621bad78
 Section: Themes
 Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS12. We've added 70 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS12 now has over 600 icons including two alternative icons (Appstore and iTunes Store).
 Author: iOSDesigner
@@ -46,9 +46,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/nini.deb
 Size: 1266100
-MD5sum: 55a3c06e19ecd615e5da2b5908c6fc21
-SHA1: c93d12a9def2acbe88d32375d2dc3f3589f1a664
-SHA256: c5ebe76c9ed5720d49f0536980b1a3abe23dc72dc1196b1786a04c7202437c3d
+MD5sum: 9a8b040170fc19dbfb915899b981b7a7
+SHA1: 75ae23574fff4ba1dcdc31fb8e6977a986cd2d61
+SHA256: 03c8cb488bda43a4ef37ee21b0981e445955c8d6fc3f385c906faec4ecd9e8f7
 Section: Themes
 Description: Private theme
 Author: iOSDesigner

@@ -1,9 +1,9 @@
 Package: com.iOSDesigner.biscuitios11
 Name: Biscuit iOS11
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Author: iOSDesigner <andereder@yahoo.de>
 Section: Themes
-Depends: com.anemonetheming.anemone
+Depends: com.spark.snowboard
 Maintainer: iOSDesigner <andereder@yahoo.de>
 

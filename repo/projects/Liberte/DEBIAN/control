@@ -1,0 +1,8 @@
+Package: com.iOSDesigner.Liberte
+Name: Liberte
+Version: 1.1.8
+Architecture: iphoneos-arm
+Author: iOSDesigner <andereder@yahoo.de>
+Section: Themes
+Depends: com.spark.snowboard
+Maintainer: iOSDesigner <andereder@yahoo.de>
