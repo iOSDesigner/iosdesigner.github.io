@@ -1,9 +1,10 @@
 Package: com.iosdesigner.Niki
 Name: Niki
-Version: 1.4.0
 Architecture: iphoneos-arm
-Author: iosdesigner <andereder@yahoo.de>
+Maintainer: iosdesigner
+Author: iosdesigner
+Description: iOS Theme
 Section: Themes
 Depends: com.spark.snowboard
-Maintainer: iosdesigner <andereder@yahoo.de>
+Version: 1.5.0
 
