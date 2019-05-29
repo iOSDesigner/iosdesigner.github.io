@@ -1,13 +1,13 @@
 Package: com.iOSDesigner.Niki
-Version: 1.2.0
+Version: 1.3.0
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.spark.snowboard
 Filename: ./debs/Niki.deb
-Size: 2480714
-MD5sum: 4044e0d459bb1aabdd9c65fd30dc9a6a
-SHA1: 47993abe2e2b93699b6ade573ef844be0c8b4e71
-SHA256: d6719281c1e7c1a558602c204e1d9ddf9a954e9fd51f6b0daf242304a1efd652
+Size: 2972834
+MD5sum: cab1173ee6d92a93ffbfef6bd2776cb8
+SHA1: c56dd0af2164d8f1531c6e9f5fa6a2a3a69eddac
+SHA256: 8451af09dbf42dcf22c207ffe3de3a03f98ffd4a7f301d03f80a06a233c0183c
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Niki
@@ -18,10 +18,10 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.spark.snowboard
 Filename: ./debs/biscuitios11.deb
-Size: 12760558
-MD5sum: 9bc4de37927944810507c82f818995f8
-SHA1: 9b8830ac80a9aa88ff43ab6b13b99696a4c54f00
-SHA256: 98cc4b8e74ef78f6e17e6eb295539c264293ac8577a3100f0ab30e59a440ceae
+Size: 12760556
+MD5sum: da87774e6913b6fb0f840b7d62d32798
+SHA1: 3a954e793c9c37de48c7fb5a3148d66718567b03
+SHA256: 4c2cf9e956c3d9cd24aa8371080b78df88ab9a5dd6438404244f19074ac60820
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -32,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/minimalios11.deb
 Size: 5766866
-MD5sum: 3df1cf17adef893cc87ce2de0f506954
-SHA1: 0e78b1630edb806cf0a76b6d5e190cc5ab13daa5
-SHA256: c10438b6213b5331b1ebf3fb471973679cff70b249fae2624bfd4a3bee962c67
+MD5sum: 792deb85d8c0578e05d1ed02e20fe75f
+SHA1: 26eb2392a9cb4798a9d13bbe79e9637e65752af9
+SHA256: 5b4db264efb68d10c2b5363ef20c8debe0a52e074e614188f6b7566ae368ba18
 Section: Themes
 Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS12. We've added 70 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS12 now has over 600 icons including two alternative icons (Appstore and iTunes Store).
 Author: iOSDesigner
@@ -46,9 +46,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/nini.deb
 Size: 1266100
-MD5sum: cb6c507cc0b8c53aaacd9545297db3e4
-SHA1: 64769aba99dec8e865dac608c237d8a1209aa46e
-SHA256: 5f2721ec3d10121344c27df3fca4b1ec9251c2add3021cabc3b9dfd65ff87568
+MD5sum: d9a1f1642d3459c6ce023aaf177d8009
+SHA1: 07a202c8cd590c15949077c195eede8a5055e7f5
+SHA256: 02af5b558b52cb1d472a8a7d0e5529f1817320f6939005c1f6d70ba5731cfa56
 Section: Themes
 Description: Private theme
 Author: iOSDesigner
