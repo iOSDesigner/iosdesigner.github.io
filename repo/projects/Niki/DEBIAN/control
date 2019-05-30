@@ -5,6 +5,5 @@ Maintainer: iosdesigner
 Author: iosdesigner
 Description: iOS Theme
 Section: Themes
-Depends: com.spark.snowboard
-Version: 1.7.0
+Version: 1.8.0
 
