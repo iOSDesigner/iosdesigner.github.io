@@ -1,0 +1,8 @@
+Package: com.iosdesigner.Rainbow
+Name: Rainbow
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Author: iOSDesigner
+Description: Private theme 
+Section: Themes
+Version: 1.0.0

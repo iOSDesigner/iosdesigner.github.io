@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner <andereder@yahoo.de>
 Depends: com.spark.snowboard
 Filename: ./debs/biscuitios11.deb
-Size: 12760552
-MD5sum: 7c300ebaf43a6afccf670d491f946e6f
-SHA1: 338d8fa479ec7b0205cb391c1dccf665b5808cf4
-SHA256: 73b3f9277e98e9f734ee7f119f523b5ac9b48548a0f38bab04e2208179761771
+Size: 12760560
+MD5sum: 011a2e1bd7b2793ba81593a8749a9d8f
+SHA1: 0821b7ee690f27bdf9e87bcf4ea70e8ec19c60ce
+SHA256: aff6dcfb34b3f34ed809ed3af74090a60ff9f22e1eafc2808fa44f23f24588df
 Section: Themes
 Author: iOSDesigner <andereder@yahoo.de>
 Name: Biscuit iOS11
@@ -17,24 +17,38 @@ Version: 1.9.3
 Architecture: iphoneos-arm
 Maintainer: iosdesigner
 Filename: ./debs/Niki.deb
-Size: 4025194
-MD5sum: d4e6aa85125e9301530ba2eecabd2c92
-SHA1: d032c7de9e56df30de1d57fe151eb491d7c052d1
-SHA256: 9395d0c05110d3c82b7fabc19e43ef3f97846a57d65fa3941e61d0eddd07b09e
+Size: 4025188
+MD5sum: 9a6cc946733616c35629e2002f902d7f
+SHA1: e340e0bab69bc5c6cb093f17165ce64259affe2c
+SHA256: cca9bbe0b00ea23434e6be8a1ec9fc08bf9a1da9d8736cdee27fccebb582856f
 Section: Themes
 Description: iOS Theme
 Author: iosdesigner
 Name: Niki
+
+Package: com.iosdesigner.Rainbow
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Filename: ./debs/Rainbow.deb
+Size: 661592
+MD5sum: cfd16f3fdf83f4de9951879381497c69
+SHA1: fd1f63fd43f205eb4284eb3a6103cfa59ce8fb9d
+SHA256: 4e682fdde2788e70434a61faad657948d2a3d6800a3128699dc5bdceda616358
+Section: Themes
+Description: Private theme
+Author: iOSDesigner
+Name: Rainbow
 
 Package: com.iosdesigner.minimalios11
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/minimalios11.deb
-Size: 5766868
-MD5sum: 3fc969faea8e14f74887fd6b794cade4
-SHA1: f28540858e660b80fcef3542d4cd417e80121f59
-SHA256: 3c082e4f491829d4ac4a24aa8580dcd1b55a73e1c25ccb536391466fb28d4fd1
+Size: 5766870
+MD5sum: 4c3128710490586d51dbf575de22df24
+SHA1: 01cef74a267ee780bf6561371299a3af81889786
+SHA256: a602101bffce2bb968266683888e75f7dcef9b4c045674e799ce9c3f51586e2d
 Section: Themes
 Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS12. We've added 70 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS12 now has over 600 icons including two alternative icons (Appstore and iTunes Store).
 Author: iOSDesigner
@@ -45,10 +59,10 @@ Version: 2.1.0
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/nini.deb
-Size: 1266100
-MD5sum: eda3cacba3c36be6079fb10d04c8644c
-SHA1: 0b35ad24f908932e90ab91c100b37da4f729b91c
-SHA256: be83a7ff7e3450dd3077f9f5f4b9eb1aee1d7966f428ffe4cd18cacd960d21e2
+Size: 1266106
+MD5sum: d5bba4bd1b47a828d370babe532d69f4
+SHA1: 2062966a28961d7035ef4be8863b6a9493fcf350
+SHA256: b0a7a3930111c0f6d0a95cf59ecf829af304a9bc8d3aebe3024a06cb01f247ab
 Section: Themes
 Description: Private theme
 Author: iOSDesigner
