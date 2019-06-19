@@ -1,12 +1,12 @@
 Package: com.iosdesigner.Rainbow
-Version: 1.0.7
+Version: 1.0.8
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/Rainbow.deb
-Size: 2497052
-MD5sum: 4637eeb5c98dce366e6ba246bf8514f7
-SHA1: b5829200ae92f9d86c19e96da7bc1bb7b44e372b
-SHA256: 56977932b4edf59d32e7cef799b667f449f2d2f9e6b186e6ae958b23808a11ac
+Size: 2497068
+MD5sum: 05ce826257bead7b11339f4fb429b66e
+SHA1: b32893cb5bb4e0434a21d63392a2acb0a842c029
+SHA256: 81467e84f88ac0bab116ed844079bbdd6d9c7ecb43d4222405735130abad5397
 Section: Themes
 Description: Private theme
 Author: iOSDesigner

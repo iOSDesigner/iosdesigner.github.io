@@ -17,7 +17,7 @@
           <string>#ffffff</string>
         
         <key>TextYoffset</key>
-          <real>0</real>
+          <real>4</real>
     </dict>
 
     <key>CalendarIconDateSettings</key>
@@ -31,11 +31,11 @@
         <key>ShadowXoffset</key>
           <real>0.0</real>
         <key>ShadowYoffset</key>
-          <real>0.0</real>
+          <real>.0</real>
         <key>TextColor</key>
-          <string>#f2625b</string>
+          <string>#FF9191</string>
         <key>TextYoffset</key>
-          <real>2</real>
+          <real>4</real>
     </dict>
         <key>IB-MaskIcons</key>
 	<true/>
