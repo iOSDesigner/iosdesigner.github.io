@@ -1,12 +1,26 @@
+Package: com.iOSDesigner.biscuitios11
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner <andereder@yahoo.de>
+Filename: ./debs/biscuitios11.deb
+Size: 12760552
+MD5sum: 650dd0d0ab623621ca99448115f59d7c
+SHA1: 9468aa9a94dd31dce26a96e0885a03e574621f55
+SHA256: afd2feb18b2cdbe4c7cbf0c5f678e501a2c37ad2fa128601a51f66f2116de3cc
+Section: Themes
+Author: iOSDesigner <andereder@yahoo.de>
+Conflict: https://iosdesigner.github.io/repo
+Name: Biscuit iOS11
+
 Package: com.iosdesigner.Rainbow
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/Rainbow.deb
 Size: 2497080
-MD5sum: 87501f7805d8346605c84c1133d81e43
-SHA1: 57b98ad50b0f3ef3ae62151fcd0882c8deb28bf2
-SHA256: acfc257e9cf6aada3d3b72c454004132ae53e02547289ff0d53c54b777a81a40
+MD5sum: 93d63b2106286067a1c2ab40b79ec01e
+SHA1: 9b381119f460d294ac8b3df609f94ba330f8dbd5
+SHA256: 31888b10809951bd7daaf5b39279e1f246c3066bfa4a5c90cae50e8ddec90f29
 Section: Themes
 Description: Private theme
 Author: iOSDesigner
