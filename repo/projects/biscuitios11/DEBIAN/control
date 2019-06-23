@@ -4,6 +4,5 @@ Version: 1.2
 Architecture: iphoneos-arm
 Author: iOSDesigner <andereder@yahoo.de>
 Section: Themes
-Conflict: https://iosdesigner.github.io/repo
 Maintainer: iOSDesigner <andereder@yahoo.de>
 
