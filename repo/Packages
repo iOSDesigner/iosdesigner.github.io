@@ -13,14 +13,14 @@ Conflict: https://iosdesigner.github.io/repo
 Name: Biscuit iOS11
 
 Package: com.iosdesigner.Rainbow
-Version: 1.1.4
+Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/Rainbow.deb
-Size: 3172542
-MD5sum: 0b66a60d70a4c91e6a3c0aa8b4065b3b
-SHA1: 0e36fb85793978798122cc95145fd6116864ea00
-SHA256: dfe2237a965ea73ac88e8460dec0a61d31ef351b1446df5d7a0f46a4d1a9fe90
+Size: 3276872
+MD5sum: d9eff71977cbd141cc3f061f30468cea
+SHA1: 8d725fa0b49dcf3e8460b794c6bc4bc5263b3661
+SHA256: 2f295ef5818a8fc3f26a0a412f43057e4b43e8a72c5150ffdf814801fac64311
 Section: Themes
 Description: Private theme
 Author: iOSDesigner
