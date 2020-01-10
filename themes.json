@@ -16,6 +16,21 @@
 		"maxiosver":"13.3.3",
 		"contact":"https://twitter.com/ios_designer"
 		},
+
+		{"name":"Minimal.ios12",
+		"developer":"iOS_Designer",
+		"package":"com.iosdesigner.minimalios11", 
+		"img":[
+			"IMG1.png"], 
+		"desciption":"Theme Minimal.ios.12.<br>Thanks.",
+		"price":"Free",
+		"version":"1.1.1",
+		"updated":"12-12-20",
+		"wNew":"Release",
+		"miniosver":"8.0.0",
+		"maxiosver":"13.3.3",
+		"contact":"https://twitter.com/ios_designer"
+		},
 		
 		{"name":"Theme 2",
 		"developer":"iOS_Designer", 
