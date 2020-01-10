@@ -31,7 +31,7 @@ function loadThemes(){
 	themeMaker.makeTheme({
         holder: document.getElementById('section2T'),
 		color: '#484848',
-        dayCount: 3, //number of days
+        dayCount: arrSet.length, //number of days
         dayWidth: 300, //holder width can also be used as spacing
         dayHeight: 250, //holder height
         imgWidth: 300, //image size
