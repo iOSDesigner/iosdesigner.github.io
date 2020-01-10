@@ -21,7 +21,8 @@
 		"developer":"iOS_Designer",
 		"package":"com.iosdesigner.minimalios11", 
 		"img":[
-			"IMG1.png"], 
+			"IMG1.png",
+			"im3.png"], 
 		"desciption":"This is the widget description.<br>Thanks.",
 		"price":"Free",
 		"version":"1.0",
