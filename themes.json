@@ -16,20 +16,18 @@
 		"maxiosver":"13.3.3",
 		"contact":"https://twitter.com/ios_designer"
 		},
-		
-		{"name":"Theme 1",
+
+		{"name":"Minimal.ios12",
 		"developer":"iOS_Designer",
-		"package":"com.theme.theme1", 
+		"package":"com.iosdesigner.minimalios11", 
 		"img":[
-			"im1.png",
-			"im2.png",
-			"im3.png"], 
-		"desciption":"This is the widget description.<br>Thanks.",
+			"IMG1.png"], 
+		"desciption":"Theme Minimal.ios.12.<br>Thanks.",
 		"price":"Free",
-		"version":"1.0",
+		"version":"1.1.1",
 		"updated":"12-12-20",
 		"wNew":"Release",
-		"miniosver":"11.2.3",
+		"miniosver":"8.0.0",
 		"maxiosver":"13.3.3",
 		"contact":"https://twitter.com/ios_designer"
 		},
