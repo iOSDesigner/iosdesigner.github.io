@@ -1,8 +1,0 @@
-Package: com.iosdesigner.nini
-Name: Nini
-Architecture: iphoneos-arm
-Maintainer: iOSDesigner
-Author: iOSDesigner
-Description: Private theme 
-Section: Themes
-Version: 2.1.0

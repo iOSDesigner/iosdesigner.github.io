@@ -1,9 +1,0 @@
-Package: com.iosdesigner.Niki
-Name: Niki
-Architecture: iphoneos-arm
-Maintainer: iosdesigner
-Author: iosdesigner
-Description: iOS Theme
-Section: Themes
-Version: 1.9.3
-
