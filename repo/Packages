@@ -1,0 +1,41 @@
+Package: com.iOSDesigner.biscuitios11
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner <andereder@yahoo.de>
+Filename: ./debs/biscuitios11.deb
+Size: 12760312
+MD5sum: 6911676df6aa4a570846cfe3fe3dfe96
+SHA1: a67c1d63038173595cb516318d3c0a92a22b1b3f
+SHA256: b6368a6b488de1347f0b3772c69925702f9ca8bbedea67f8fbc358434a1669cb
+Section: Themes
+Author: iOSDesigner <andereder@yahoo.de>
+Name: Biscuit iOS11
+
+Package: com.iosdesigner.Rainbow
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Filename: ./debs/Rainbow.deb
+Size: 3550740
+MD5sum: 637258827eb460618fa440abe3393277
+SHA1: 482ffcecf04dab59767c823f3b17cbff4a187461
+SHA256: 552c09c5ed1b9f066bd14f878916ac29937dc7e182f8b66b54dd86a1694e61d5
+Section: Themes
+Description: Private theme
+Author: iOSDesigner
+Name: Rainbow
+
+Package: com.iosdesigner.minimalios11
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: iOSDesigner
+Filename: ./debs/minimalios11.deb
+Size: 5762196
+MD5sum: 2711186c779dda1d99a27312f43e0b68
+SHA1: 2dbda7e7e228639e8438f7cde43a249bdc693c0b
+SHA256: 0f2707802844ec230ad2eccfced84baf35351d0d6350d01c62759cf90bf2c560
+Section: Themes
+Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS12. We've added 70 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS12 now has over 600 icons including two alternative icons (Appstore and iTunes Store).
+Author: iOSDesigner
+Name: Minimal iOS12
+
