@@ -1,0 +1,11 @@
+Package: com.iosdesigner.RainbowV2
+Name: Rainbow V2
+Version: 1.1.6
+Section: Themes
+Architecture: iphoneos-arm
+Author: iOSDesigner
+Maintainer: iOSDesigner
+Description: Rainbow V2
+Depiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.RainbowV2
+ModernDepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.RainbowV2
+SileoDepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.RainbowV2

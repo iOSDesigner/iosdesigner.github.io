@@ -1,0 +1,11 @@
+Package: com.iosdesigner.libertev2
+Name: Liberte V2
+Version: 1.2.0
+Section: Themes
+Architecture: iphoneos-arm
+Author: iOSDesigner
+Maintainer: iOSDesigner
+Description: Liberte V2
+Depiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.libertev2
+ModernDepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.libertev2
+SileoDepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.libertev2

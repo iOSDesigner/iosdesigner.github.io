@@ -1,0 +1,11 @@
+Package: com.iosdesigner.AureliaOS
+Name: AureliaOS
+Version: 1.0.0
+Section: Themes
+Architecture: iphoneos-arm
+Author: iOSDesigner
+Maintainer: iOSDesigner
+Description: A Theme with beautiful icons
+Depiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.AureliaOS
+ModernDepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.AureliaOS
+SileoDepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.AureliaOS
