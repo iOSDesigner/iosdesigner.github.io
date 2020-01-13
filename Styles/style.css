@@ -101,7 +101,11 @@ section{
 }
 
 #paypal{
-	margin-top:20px;
+	background:#ED7900;
+	border-radius:25px;
+	padding:10px;
+	color:#FFFFFF;
+	text-decoration:none;
 }
 
 /*#land_im{
