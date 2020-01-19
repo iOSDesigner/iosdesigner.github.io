@@ -3,10 +3,10 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/AureliaOS.deb
-Size: 9313334
-MD5sum: 4bb02c295e31819e4fe7126384a02542
-SHA1: fde737d487abcf915a198914be04675c62df063b
-SHA256: 6ef5f238aa8a51fb639396ac68dd8dcdcc43d0453ee9762d91f69baf7ae26d7b
+Size: 9311704
+MD5sum: dc3703db09673342d49440417157bafa
+SHA1: 988005639d91ef0fd983e4eeba3e14f8ddd37a28
+SHA256: dc62e1377b85ea676376223f9731ddab9c884b9c8219554cc3ef20dd303d7ffb
 Section: Themes
 Description: A Theme with beautiful icons
 Author: iOSDesigner
@@ -20,10 +20,10 @@ Version: 1.1.6
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/Rainbowv2.deb
-Size: 3953400
-MD5sum: db58b5977ef08a877d99e0c57b1e00d2
-SHA1: b19c5f88338147c80af18846d787616f0ab9e5cd
-SHA256: c48d4819183f1349f5c8984d701c739e7b6858e66c01276c417205b20a2898eb
+Size: 3952776
+MD5sum: 0a6c920937fcfca5597198e18a4badab
+SHA1: 6b6953fa854c5c21884b1e3f5312dfd9e12b699e
+SHA256: e90d45b912bf8588446b9ca38d6b4e5697eff63efa2df074abe8ce2c78068a74
 Section: Themes
 Description: Rainbow V2
 Author: iOSDesigner
@@ -37,10 +37,10 @@ Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/Libertev2.deb
-Size: 12675790
-MD5sum: addce0be61b7cb11512de629385bae1a
-SHA1: a4b187805c6bac53b196c76583ba26f48e544844
-SHA256: ca562e6c55b0cb5ca0693f6725d253062715715729e75979a71c9100eed65044
+Size: 12675362
+MD5sum: 46727caeddf0b53b05189e706c9fe7bb
+SHA1: 89a0abd1a0f2552732d3e6978298e944be2a3d60
+SHA256: e10d6cc5b6f97425578bd4878e98cc69784716a32c05a8714485bb74f997a7b2
 Section: Themes
 Description: Liberte V2
 Author: iOSDesigner
@@ -50,14 +50,14 @@ Name: Liberte V2
 Sileodepiction: https://iosdesigner.github.io/theme.html?themevar=com.iosdesigner.libertev2
 
 Package: com.iosdesigner.minimalios11
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/minimalios11.deb
-Size: 5666590
-MD5sum: ee5649b4bd711f4625a6dcac64a34703
-SHA1: 355369075e3349c918a342af479708ec4bf1747d
-SHA256: 939c064689527862adbe3c39706fae5c8a1839b58f53f438d47a9989d8fb7bf9
+Size: 5764036
+MD5sum: 321408c87ff8f3a871c021ee9d4ef8fe
+SHA1: 873780ef4fb607669824efcccd907082c171e5ae
+SHA256: 5ed239178ece172673b4497ee7aeefb30304cbc32ff2eeb7ca1d851967269276
 Section: Themes
 Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS12. We've added 70 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS12 now has over 600 icons including two alternative icons (Appstore and iTunes Store).
 Author: iOSDesigner
