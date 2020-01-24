@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/AureliaOS.deb
 Size: 9311694
-MD5sum: 797ae114c1a59f0369ab74a43dd0938a
-SHA1: 1297c3f63ece557aba70efd102457564aa244f58
-SHA256: 9dad5c1177de9e0e3ccec37fb4b282fa37065e783c8acad6c327e4a52d8b2e97
+MD5sum: 0b71fc28f7024afb994c12d147765c3d
+SHA1: a8385852aeaff6aa8b2d6709eda92942c72eb515
+SHA256: db5951f546c01ca5ff2e0e8aadc9b296f5224c779622e860c6d56e58c01b73cf
 Section: Themes
 Description: A Theme with beautiful icons
 Author: iOSDesigner
@@ -21,9 +21,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/Rainbowv2.deb
 Size: 3952776
-MD5sum: 097be5ff624395c5ef31f2011baec880
-SHA1: 9a29fda19ee2d91d47d3980c84f3425f1a2ed06a
-SHA256: 66f788dcbc37e61ba0a3f08693e5df792d53ba5e8715776764c9a6481b0128fe
+MD5sum: 7cf14b4e4c83121c72d2df06f6608796
+SHA1: 07792b4d673d396f21b4559e678efa4f5ab5c441
+SHA256: 55201b35ca95c9e908b782e934eb4e70b1722e7c39e91e447b870693a1be765b
 Section: Themes
 Description: Rainbow V2
 Author: iOSDesigner
@@ -38,9 +38,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/Libertev2.deb
 Size: 12675362
-MD5sum: a751d7fe72060be47d8166a0542c3189
-SHA1: 42ffe2accbd46a344688a8a635991cecaa849679
-SHA256: 26001d2d64e5c8b9474a14bc335fd805ad0f89555d03a0349092e5c755271045
+MD5sum: d0b87c00788e97cc192f3fcd4bb0fd24
+SHA1: a3e1736ee42f67e71aa6bf2ce5c91f6032ef47cd
+SHA256: e89bf066a231e8b1ee00bb1ab766172d3d903ee78125b15d4b6fa1049e9c1282
 Section: Themes
 Description: Liberte V2
 Author: iOSDesigner
@@ -55,9 +55,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/minimalios11.deb
 Size: 6480368
-MD5sum: b863af631626bbc5fc3f8511461ea507
-SHA1: 6a3a65bee1a9629222004d75bb0e831070437ceb
-SHA256: d4b09e2fa341b29ec2012adf8e80e477c6b9c51ff9ab21872cfa67350cad58f3
+MD5sum: b80d0c2bb821a8974c676b6daf7e41ad
+SHA1: 8779685e5e06555f9a9f9d29a0a1f71e58ce6978
+SHA256: b08436d3c5dca7d6ae3b00e2b5054acb8c7dd4474193fc4b9b89c1735f5bc91f
 Section: Themes
 Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS12. We've added 70 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS12 now has over 600 icons including two alternative icons (Appstore and iTunes Store).
 Author: iOSDesigner
