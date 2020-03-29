@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/AureliaOS.deb
 Size: 9311694
-MD5sum: 6185ce863519bb466e0cba511b1ae79f
-SHA1: d6f7e50f05ba3d64cee47aa248495f331d6efbf6
-SHA256: fb853504bb6179faaec2aef7e623d279245a5a14a28cbcba9365b6a2afd843b4
+MD5sum: ef951379a432e03e40c237ad26f4dc8e
+SHA1: b9e815517737807bcdba89aa90793893873869c2
+SHA256: fdd2ac681dd27573e06b74dc208382c981dcc16db34c10dd488078d16f228b81
 Section: Themes
 Description: A Theme with beautiful icons
 Author: iOSDesigner
@@ -21,9 +21,9 @@ Architecture: iphoneos-arm
 Maintainer: iOSDesigner
 Filename: ./debs/minimalios11.deb
 Size: 8946262
-MD5sum: 6497c3347ae302dbeaafaf4e1d21bd75
-SHA1: 93db3d849aebb179faab3603c037e7ed3fdb6eb3
-SHA256: 5f5fdf816d1c300b0ed5da0f07a009279bcbfe9bb3ce0c229fd15ef00d0b6d95
+MD5sum: 5c3b8f66e8f6a7a11bbcf35e4357f84d
+SHA1: 8890d48ab0035de64e6e30bd0cf9ab0636f9d64d
+SHA256: 6f31c93e507db6c2dd4e4c5e7b8044e8adc885461271d456f99adfb3dac9f006
 Section: Themes
 Description: colbyashi and I update, minimal.iOS.9 on minimal.iOS13. We've added 100 new icons including: Unc0ver, Sileo, Electra, dribbble and more. minimal.iOS13 now has over 600  icons including two alternative icons (Appstore and iTunes Store).
 Author: iOSDesigner
