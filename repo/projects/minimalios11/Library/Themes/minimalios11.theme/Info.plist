@@ -3,7 +3,7 @@
   <plist version="1.0">
   <dict>
     <key>IB-MaskIcons</key>
-    <false/>
+    <true/>
     <key>PackageName</key>
     <string>minimal.ios13</string>
     <key>ThemeType</key>
